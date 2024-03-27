@@ -18,9 +18,3 @@ Start the development server on `http://localhost:3000`:
 npm run dev
 
 
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
